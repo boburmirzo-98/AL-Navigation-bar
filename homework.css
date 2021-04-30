@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}    
+.main {
+    width: 100%;
+    background-color: #292f3b;
+    display: flex;
+    font-family: sans-serif;
+}
+.main h2 {
+    color: #fff;
+   
+    padding: 30px 100px;
+    flex: 1;
+
+}
+.main ul {
+    list-style-type: none;
+    display: flex;
+    padding: 30px;
+   
+}
+.main ul li {
+    margin-left: 30px;
+   
+}
+.main ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+.main button {
+    margin-right: 100px;
+    border-radius: 25px;
+    height: 35px;
+    width: 120px;
+    margin-top: 25px;
+    background-color: #1c72e2;
+    color: #fff;
+    border: 1px solid #292f3b;
+}
+
+
+
+
+
+
+
